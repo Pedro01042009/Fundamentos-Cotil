@@ -1,5 +1,4 @@
-# Fundamentos-Cotil
-Um repositório para os arquivos da disciplina de Fundamentos.
+## Sobre mim
+**Pedro** 
 
-Jojojojojojojojojojojojojojojojojojojojo
-
+*Data de nascimento: 01/04/2009*
