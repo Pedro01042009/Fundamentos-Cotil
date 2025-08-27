@@ -13,7 +13,6 @@
 
 O código abaixo é um clássico "Olá, Mundo!" na linguagem C, utilizando a função `printf()`:
 
-
 ```c
 #include <stdio.h>
 
